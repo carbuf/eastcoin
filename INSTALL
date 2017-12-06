@@ -1,0 +1,9 @@
+Building Eastcoin
+
+See doc/readme-qt.rst for instructions on building Eastcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Eastcoin.
+
+See doc/build-*.txt for instructions on building eastcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Eastcoin.
